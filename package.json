@@ -1,6 +1,6 @@
 {
   "name": "@l2studio/minecraft-ping",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A library for Minecraft server ping",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
